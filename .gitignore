@@ -1,0 +1,32 @@
+# dipendenze
+node_modules/
+
+# env / segreti (FONDAMENTALE)
+.env
+.env.*
+
+# log
+logs/
+*.log
+
+# dati runtime (se usati)
+storage/
+
+data/
+
+# cache
+.cache/
+
+# build (se usi transpile)
+dist/
+build/
+
+# editor
+.vscode/
+
+# sistema
+.DS_Store
+
+# processi
+*.pid
+*.sock
