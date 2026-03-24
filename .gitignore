@@ -29,4 +29,5 @@ build/
 
 # processi
 *.pid
-*.sock
+*.sock*.local.js
+state.json
